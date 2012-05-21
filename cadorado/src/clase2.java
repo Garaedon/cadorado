@@ -1,6 +1,10 @@
 
 public class clase2 
 {
+	public void metodo_rama_master_clase2()
+	{
+		System.out.println("cambio a master y metodo clase2");
+	}
 	public void metodo1_clase2()
 	{
 		System.out.println("metodo realizado");
